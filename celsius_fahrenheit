@@ -1,10 +1,16 @@
-This exercise will help you learn basic arithmetic and floating point computations in your language.  
-It will also introduce you to the habit of verifying the correctness of your programs for different inputs.
+This exercise will help you 
+1. Learn basic arithmetic and floating point computations in your language.  
+2. Learn to use variables to store values.  
+3. Learn Strings and how to concatenate strings to present a user friendlt output 
+4. It will also introduce you to the habit of verifying the correctness of your programs for different inputs.  
 
 Write a program that converts temperature from celsius to fahranheit
+
 
 Test Cases:
 1. If celsius is 0, the program should output 32
 2. If celisus is 32, the program should output 89.6
 
-
+Expected Output:
+0 degrees celsius in fahranheit is 32.0 degrees in Fahranheit
+32 degrees celsius in fahranheit is 89.6 degrees in Fahranheit
