@@ -1,0 +1,17 @@
+Source: MIT OCW
+
+Why? - This program will help you get further practice on arithmetic. Depending on the approach you take,  
+this may also be your first introduction to the built-in libraries of your programming language
+
+The diameter of the Sun is approximately 865,000 miles. The diameter of the Earth is
+approximately 7600 miles.  Calculate,
+(a) the volume of the Earth in cubic miles
+(b) the volume of the Sun in cubic miles
+(c) the ratio of the volume of the Sun to the volume of the Earth
+and then output the three values. Treat both the earth and sun as spheres. The volume of a
+sphere is given by the formula 4 pi r^3/3 where r is the radius.
+
+The
+output should say something like: 
+The volume of the Earth is X cubic miles, the volume of the
+sun is Y cubic miles, and the ratio of the volume of the Sun to the volume of the Earth is Z. 
