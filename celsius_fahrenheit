@@ -3,8 +3,8 @@ It will also introduce you to the habit of verifying the correctness of your pro
 
 Write a program that converts temperature from celsius to fahranheit
 
-Test Case 1:
-1. If celisus is 0, the program should output 32
+Test Cases:
+1. If celsius is 0, the program should output 32
 2. If celisus is 32, the program should output 89.6
 
 
