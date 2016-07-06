@@ -1,7 +1,8 @@
 Source: MIT OCW
 
-Why? - This program will help you get further practice on arithmetic. Depending on the approach you take,  
-this may also be your first introduction to the built-in libraries of your programming language
+This exercise will 
+1.Help you gain further practice on arithmetic, use of variables and string concatenation
+2. Depending on the approach you take, this may also be your first introduction to the built-in libraries of your programming language
 
 The diameter of the Sun is approximately 865,400 miles. The diameter of the Earth is
 approximately 7917.5 miles.  Calculate,
