@@ -1,0 +1,10 @@
+This exercise will help you learn basic arithmetic and floating point computations in your language.  
+It will also introduce you to the habit of verifying the correctness of your programs for different inputs.
+
+Write a program that converts temperature from celsius to fahranheit
+
+Test Case 1:
+1. If celisus is 0, the program should output 32
+2. If celisus is 32, the program should output 89.6
+
+
