@@ -1,7 +1,7 @@
 This exercise will help you 
 1. Learn basic arithmetic and floating point computations in your language.  
 2. Learn to use variables to store values.  
-3. Learn Strings and how to concatenate strings to present a user friendlt output 
+3. Learn Strings and how to concatenate strings to present a user friendly output 
 4. It will also introduce you to the habit of verifying the correctness of your programs for different inputs.  
 
 Write a program that converts temperature from celsius to fahranheit
