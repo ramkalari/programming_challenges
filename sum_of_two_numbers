@@ -1,1 +1,8 @@
-Write a program that accepts 2 numbers from the user and prints its sum? The program should prompt the user for the numbers
+Write a program that accepts 2 numbers from the user and prints its sum? The program should prompt the user for the numbers 
+and output according to the following format.
+
+
+1. Enter the first number: 2
+2. Enter the second number: 3
+
+The Sum of 2 and 3 is 5
