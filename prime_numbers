@@ -1,0 +1,9 @@
+Write a program that outputs all prime numbers from 1 to 50. 
+
+
+The output should be
+Here are the list of prime numbers from 1 to 50
+2
+3
+5
+and so on
