@@ -1,0 +1,7 @@
+Given an array of n integers, output its sum. For eg. if the input is [1, 2, 3, -1, 4], the program should print
+
+The sum of the given array is 9
+
+
+Why?
+This program serves as a introductory exercise for working with arrays.
