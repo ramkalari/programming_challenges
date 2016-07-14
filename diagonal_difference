@@ -1,0 +1,16 @@
+Given a square matrix of size , calculate the absolute difference between the sums of its diagonals. For example, if the given  
+matrix is  
+1 2 7
+4 5 6
+7 9 10
+
+the primary diagonal has the elements 1, 5 and 10 whose sum in 16
+the secondary diagonal has the elements 7, 5, and 7 whose sum is 19
+
+the absolute difference is |16 - 19| = 3.
+
+This program will help introduce you to multidimensional arrays, or list of lists and nested loops.
+
+Expected Output: The diagonal difference is 3
+
+Expected Time to Solve: 2 hours
