@@ -10,5 +10,7 @@ If the input is the following array
 the expected output is  
 0.500000  
 0.333333  
-0.166667  
+0.166667
+
+Expected Time to Solve: 5 to 15 min
 
