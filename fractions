@@ -1,0 +1,14 @@
+Given an array of integers, calculate which fraction of its elements are positive,   
+which fraction of its elements are negative, and which fraction of its elements are zeroes, respectively. 
+Print the decimal value of each fraction on a new line. Each fraction should be output to 6 decimal places.
+
+
+If the input is the following array  
+
+[-4, 3, -9, 0, 4, 1]  
+
+the expected output is  
+0.500000  
+0.333333  
+0.166667  
+
