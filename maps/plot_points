@@ -5,3 +5,5 @@ The file locations.json has a list of locations.
   
 Output: The title of each location should be the date and time in a human readable format (eg 11th July 2016, 15:40).   
 The map should be zoomed to fit all the points  
+
+Expected time: 1 - 6 hours
