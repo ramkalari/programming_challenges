@@ -1,0 +1,7 @@
+In this challenge, you have to plot the provided list of locations on a map. This could be a simple web app (use google maps api)
+or an android app (Google Maps Android SDK) or an ios app (using ios MapKit)
+
+The file locations.json has a list of locations.
+
+Output: The title of each location should be the time in a human readable format (eg 11th July 2016, 15:40). The map should be  
+zoomed to fit all the points
