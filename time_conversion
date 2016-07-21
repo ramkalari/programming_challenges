@@ -1,0 +1,12 @@
+Given a time in AM/PM format, convert it to  24 hour time.
+
+Input: 
+05:40:30PM
+
+Expected Output
+17:40:30
+
+Hint: Consider edge cases for eg 12 am in the morning and 12 midnight should get converted appropriately.
+
+Expected time to solve: 10 mins to  1 hour
+Source: HackerRank
