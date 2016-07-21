@@ -8,5 +8,9 @@ Expected Output
 
 Hint: Consider edge cases for eg 12 am in the morning and 12 midnight should get converted appropriately.
 
+Why? - Helps you learn to convert Strings to integers and do basic string manipulation. Also serves as a good introduction to  
+conditionals.  
+
 Expected time to solve: 10 mins to  1 hour
+
 Source: HackerRank
