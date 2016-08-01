@@ -1,0 +1,14 @@
+An array is a type of data structure that stores elements of the same type in a contiguous block of memory.  
+
+You are given an array of integers. Print the array in reverse order.
+
+Input
+[1,4,5,9]
+
+Ouput:
+9 5 4 1
+
+Expected Time: 5 to 15 minutes
+
+Why? - Familiarity with data structures is important to become a strong programmer. Array is one of the basic data structures  
+that you need to be comfortable with.
