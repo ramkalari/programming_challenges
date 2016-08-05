@@ -1,0 +1,37 @@
+ A Linked List is a data structure with each node containing 2 elements, the data  
+and a pointer to a next node. The last element of a linked list does not point to anything ie the next pointer will be null.
+
+For ex, this is a linked list of integers 1 -> 2 - >3
+
+
+
+A linked list can be represented as follows
+
+class Node{  
+   int data;
+   Node next
+}
+
+The first node is called the head of the linked list. For the case above, the first Node will have its data as 1 and next
+pointing to the second Node object.
+
+The second Node Object will have data as 2 and next pointing to 3rd node object.
+
+The 3rd node object will have data as 3 and next will be null.
+
+Your task will be to   
+1. construct a linked list 
+2. write a function Print(Node n) that accepts the head node as the argument, traverses all the nodes and prints the contents.
+
+Expected Output
+1. For the linked List 1->2-3, the expected output of Print(Node n) is
+1
+2
+3
+
+2. If the head node itself is null, then nothing should be printed.
+
+
+Expected Time: 5 min to 15 minutes
+Why: Serves as a basic introduction to data structures, also can be a good intro to recursion depending on how you choose 
+to solve this
