@@ -1,0 +1,22 @@
+Create a Linked List and insert a node at the end of the list and return the head of the linked list. Note - Try not to use the built-in linked list. Create your own  
+implementation of LinkedList.
+
+A simple implementation in Java would be
+
+class Node{
+Node next;
+int data;
+}
+
+You should implement a method 
+
+Node insert(Node head, int data){
+}
+
+Test Cases;
+1. If head is null, it should return a single node linked list with the given data and next pointing to null.  
+2. If head is not null, say it is the head of a  linked list 1->4>-3 and you want to insert 5. the output should be 1->4->3->2.  
+
+Why?
+1. More familiarity working with linked list  
+2. More familiarity with recursion  
