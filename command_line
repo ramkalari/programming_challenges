@@ -1,0 +1,18 @@
+Read arguments from command line and print it out. Prompt the user to
+
+1. Enter a number
+2. Enter a string
+3. Enter a double
+
+Assign these values to the appropriate data types ie a number should be assigned to an int, a double should be assigned to a double  
+
+Print the values you have read.
+
+Hint: If you are using Java, use the built-in Scanner class.
+
+Why: Helps build familarity with handling command line arguments. Also, command line to this date remains the fastest way  
+to automate things as you dont need to build an elaborate user interface. For ex, you could write a command line program
+that asks the user for his credentials and pays his bills by invoking the appropriate web services.  
+
+
+Expected Time: 5 to 15 mins
