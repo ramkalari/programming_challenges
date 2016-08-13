@@ -1,0 +1,12 @@
+You are asked to write a software for a restaurant billing system. One of the requirements is to calculate total cost of a meal  
+
+Assume the cost of a meal is C, you will have to add a tip as well as tax to compute the total cost.  The input to your function  
+is the cost of a meal, tip rate in percentage and tax rate in percentage. 
+
+The total cost of a meal should be rounded to the nearest integer.
+
+Write a function to calculate the total cost of a meal.
+
+Why? - Allows you to get familiar with basic calculations
+
+Expected Time: 15 mins
