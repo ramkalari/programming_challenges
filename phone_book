@@ -1,0 +1,25 @@
+You have N friends, their names and phone numbers. Your task is to store them in a Map (HashMap in Java) and then query the  
+HashMap for phone numbers of some of your friends.
+
+The input will be in this format
+The first row contains the number of records N. After that, you will have N rows with the name and phone number
+
+Input Format
+3
+Bolt 981
+Gatlin 989
+DeGrasse 991
+DeGrasse
+Blake
+Gatlin
+
+
+Expected Output:
+If the name is found in the map, it should print name=phoneNumber. Otherwise, it should print Not Found.  
+For the above input, the putput should be
+DeGrasse=991
+Blake=Not Found
+Gatlin=989
+
+Why? - HashMap or Dictionaries is a very important data structure that you will use repeatedly to solve performance issues.
+Expected Time: 15 mins to 30 mins
