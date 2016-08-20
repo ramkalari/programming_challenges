@@ -1,0 +1,8 @@
+Write a recursive function that computes the factorial of a given integer n. 
+
+Factorial (n) = n * Factorial(n - 1) if n > 1
+              = 1 if n = 0
+              
+              
+Why? - The classic problem to write recursive functions
+Expected time: 15 mins
